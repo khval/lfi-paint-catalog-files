@@ -1,2 +1,2 @@
 # lfi-paint-catalog-files
-Language files for lif-paint
+Language files for lfi-paint
