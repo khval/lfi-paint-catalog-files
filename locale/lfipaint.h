@@ -88,11 +88,11 @@
 #define MID_FillBrushPattern 44
 #define MID_ShowCoordinate 45
 #define MID_FillMode 46
-#define MID_SymetryTool 47
+#define MID_SymmetryTool 47
 #define MID_PaletteLoad 48
 #define MID_PaletteSave 49
 #define MID_PaletteToGray 50
-#define MID_PaletteLuminate 51
+#define MID_PaletteIlluminate 51
 #define MID_PaletteEnhanceColors 52
 #define MID_PaletteInvertColors 53
 #define MID_PaletteTool 54

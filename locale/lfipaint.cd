@@ -141,8 +141,8 @@ Show coordinate
 MID_FillMode (//)
 Fill mode
 ;
-MID_SymetryTool (//)
-Symetry tool
+MID_SymmetryTool (//)
+Symmetry tool
 ;
 MID_PaletteLoad (//)
 Load Palette
@@ -153,8 +153,8 @@ Save Palette
 MID_PaletteToGray (//)
 Palette to gray
 ;
-MID_PaletteLuminate (//)
-Luminate
+MID_PaletteIlluminate (//)
+Illuminate
 ;
 MID_PaletteEnhanceColors (//)
 Enhance colors
@@ -181,10 +181,10 @@ MID_PrefsCoordinates (//)
 Coordinates
 ;
 MID_PrefsFillMode (//)
-Fillmode
+Fill mode
 ;
 MID_PrefsSymmetri (//)
-Symmetri
+Symmetry
 ;
 MID_PrefsToolBox (//)
 Toolbox
@@ -241,7 +241,7 @@ str_save_picture (//)
 Save picture
 ;
 str_load_brush (//)
-Load beush
+Load brush
 ;
 str_save_brush (//)
 Save brush
@@ -253,7 +253,7 @@ msg_change_image_size (//)
 Image size w,h
 ;
 msg_select_where_to_place_the_image (//)
-Select where to palce the image
+Select where to place the image
 ;
 ID_END (//)
 Size of locale

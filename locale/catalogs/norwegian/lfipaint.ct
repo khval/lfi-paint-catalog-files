@@ -44,7 +44,7 @@ Snu bilde
 ; Flip
 ;
 MID_PictureFlipHorizontal
-Snu bilde vandrett
+Snu bilde vannrett
 ; Horizontal
 ;
 MID_PictureFlipVertical
@@ -80,7 +80,7 @@ Skaller bilde
 ; Scale
 ;
 MID_PictureEdgeFilter
-Kant flter
+Kantfilter
 ; Edge filter
 ;
 MID_PictureSpare
@@ -88,7 +88,7 @@ Reserve bilde
 ; Spare
 ;
 MID_ModeColor
-Fare modus
+Fargemodus
 ; Color
 ;
 MID_ModeColorizing
@@ -96,11 +96,11 @@ Fargelegg
 ; Colorizing
 ;
 MID_ModeSmooth
-Utgjevn
+Utjevne
 ; Smooth
 ;
 MID_ModeShade
-Mørkelegg
+Skyggelegg
 ; Shade
 ;
 MID_ModePixelate
@@ -136,7 +136,7 @@ Roter
 ; Rotate brush
 ;
 MID_BrushTilt
-Vinke
+Helle
 ; Tilt
 ;
 MID_BrushOutline
@@ -152,7 +152,7 @@ Vertikalt
 ; Vertical
 ;
 MID_BrushScale
-Skaller
+Skaler
 ; Scale
 ;
 MID_FillColorMode
@@ -183,12 +183,12 @@ MID_FillMode
 Fyll metode
 ; Fill mode
 ;
-MID_SymetryTool
-Symertri vertøy
+MID_SymmetryTool
+Symmetriverktøy
 ; Symetry tool
 ;
 MID_PaletteLoad
-Hant
+Hent
 ; Load Palette
 ;
 MID_PaletteSave
@@ -199,7 +199,7 @@ MID_PaletteToGray
 Farger til gråtoner
 ; Palette to gray
 ;
-MID_PaletteLuminate
+MID_PaletteIlluminate
 Lyssetting
 ; Luminate
 ;

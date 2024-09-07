@@ -190,9 +190,9 @@ MID_FillMode
 
 ; Fill mode
 ;
-MID_SymetryTool
+MID_SymmetryTool
 
-; Symetry tool
+; Symmetry tool
 ;
 MID_PaletteLoad
 
@@ -206,9 +206,9 @@ MID_PaletteToGray
 
 ; Palette to gray
 ;
-MID_PaletteLuminate
+MID_PaletteIlluminate
 
-; Luminate
+; Illuminate
 ;
 MID_PaletteEnhanceColors
 
@@ -244,11 +244,11 @@ MID_PrefsCoordinates
 ;
 MID_PrefsFillMode
 
-; Fillmode
+; Fill mode
 ;
 MID_PrefsSymmetri
 
-; Symmetri
+; Symmetry
 ;
 MID_PrefsToolBox
 
@@ -324,7 +324,7 @@ str_save_picture
 ;
 str_load_brush
 
-; Load beush
+; Load brush
 ;
 str_save_brush
 
@@ -340,7 +340,7 @@ msg_change_image_size
 ;
 msg_select_where_to_place_the_image
 
-; Select where to palce the image
+; Select where to place the image
 ;
 ID_END
 

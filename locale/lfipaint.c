@@ -88,11 +88,11 @@
 #define MID_FillBrushPattern 44
 #define MID_ShowCoordinate 45
 #define MID_FillMode 46
-#define MID_SymetryTool 47
+#define MID_SymmetryTool 47
 #define MID_PaletteLoad 48
 #define MID_PaletteSave 49
 #define MID_PaletteToGray 50
-#define MID_PaletteLuminate 51
+#define MID_PaletteIlluminate 51
 #define MID_PaletteEnhanceColors 52
 #define MID_PaletteInvertColors 53
 #define MID_PaletteTool 54
@@ -183,11 +183,11 @@
 #define MID_FillBrushPattern_STR "Brush pattern"
 #define MID_ShowCoordinate_STR "Show coordinate"
 #define MID_FillMode_STR "Fill mode"
-#define MID_SymetryTool_STR "Symetry tool"
+#define MID_SymmetryTool_STR "Symmetry tool"
 #define MID_PaletteLoad_STR "Load Palette"
 #define MID_PaletteSave_STR "Save Palette"
 #define MID_PaletteToGray_STR "Palette to gray"
-#define MID_PaletteLuminate_STR "Luminate"
+#define MID_PaletteIlluminate_STR "Illuminate"
 #define MID_PaletteEnhanceColors_STR "Enhance colors"
 #define MID_PaletteInvertColors_STR "Invert colors"
 #define MID_PaletteTool_STR "Palette tool"
@@ -196,8 +196,8 @@
 #define MID_ToolBoxRight_STR "Right"
 #define MID_ToolBoxHideShow_STR "Hide/Show"
 #define MID_PrefsCoordinates_STR "Coordinates"
-#define MID_PrefsFillMode_STR "Fillmode"
-#define MID_PrefsSymmetri_STR "Symmetri"
+#define MID_PrefsFillMode_STR "Fill mode"
+#define MID_PrefsSymmetri_STR "Symmetry"
 #define MID_PrefsToolBox_STR "Toolbox"
 #define MID_END_STR ""
 #define alart_bt_ok_STR "_Ok"
@@ -216,11 +216,11 @@
 #define str_save_palette_as_STR "Save palette as"
 #define str_load_picture_STR "Load picture"
 #define str_save_picture_STR "Save picture"
-#define str_load_brush_STR "Load beush"
+#define str_load_brush_STR "Load brush"
 #define str_save_brush_STR "Save brush"
 #define str_resize_image_STR "Resize image"
 #define msg_change_image_size_STR "Image size w,h"
-#define msg_select_where_to_place_the_image_STR "Select where to palce the image"
+#define msg_select_where_to_place_the_image_STR "Select where to place the image"
 #define ID_END_STR "Size of locale"
 
 #endif /* CATCOMP_STRINGS */
@@ -286,11 +286,11 @@ STATIC CONST struct CatCompArrayType CatCompArray[] =
     {MID_FillBrushPattern,(CONST_STRPTR)MID_FillBrushPattern_STR},
     {MID_ShowCoordinate,(CONST_STRPTR)MID_ShowCoordinate_STR},
     {MID_FillMode,(CONST_STRPTR)MID_FillMode_STR},
-    {MID_SymetryTool,(CONST_STRPTR)MID_SymetryTool_STR},
+    {MID_SymmetryTool,(CONST_STRPTR)MID_SymmetryTool_STR},
     {MID_PaletteLoad,(CONST_STRPTR)MID_PaletteLoad_STR},
     {MID_PaletteSave,(CONST_STRPTR)MID_PaletteSave_STR},
     {MID_PaletteToGray,(CONST_STRPTR)MID_PaletteToGray_STR},
-    {MID_PaletteLuminate,(CONST_STRPTR)MID_PaletteLuminate_STR},
+    {MID_PaletteIlluminate,(CONST_STRPTR)MID_PaletteIlluminate_STR},
     {MID_PaletteEnhanceColors,(CONST_STRPTR)MID_PaletteEnhanceColors_STR},
     {MID_PaletteInvertColors,(CONST_STRPTR)MID_PaletteInvertColors_STR},
     {MID_PaletteTool,(CONST_STRPTR)MID_PaletteTool_STR},
