@@ -1,0 +1,341 @@
+## version $VER: 01.catalog 01.01 (05.09.2024)
+## codeset 0
+## language Norwegian
+;
+MID_START
+
+; 
+MID_File
+Fil
+;
+MID_Picture
+Bilde
+;
+MID_Mode
+Modus
+;
+MID_Brush
+Børste
+;
+MID_Palette
+Farger
+;
+MID_Prefs
+Oppsett
+;
+MID_Load
+Hent
+; Load
+;
+MID_Save
+lagre
+; Save
+;
+MID_About
+Om
+; About
+;
+MID_Quit
+Avslutt
+; Quit
+;
+MID_PictureFlip
+Snu bilde
+; Flip
+;
+MID_PictureFlipHorizontal
+Snu bilde vandrett
+; Horizontal
+;
+MID_PictureFlipVertical
+Snu bilde vertikal
+; Vertical
+;
+MID_PictureSize
+Bilde størelse
+; Size
+;
+MID_PictureClear
+Nytt bilde
+; Clear
+;
+MID_PictureRotate
+Roter bilde
+; Rotate
+;
+MID_PictureRotateLeft
+Roter bilder ventre
+; Rotate Left
+;
+MID_PictureRotateRight
+Roter bilde høyre
+; Rotate Right
+;
+MID_PictureTrim
+Tilpass bilde
+; Trim
+;
+MID_PictureScale
+Skaller bilde
+; Scale
+;
+MID_PictureEdgeFilter
+Kant flter
+; Edge filter
+;
+MID_PictureSpare
+Reserve bilde
+; Spare
+;
+MID_ModeColor
+Fare modus
+; Color
+;
+MID_ModeColorizing
+Fargelegg
+; Colorizing
+;
+MID_ModeSmooth
+Utgjevn
+; Smooth
+;
+MID_ModeShade
+Mørkelegg
+; Shade
+;
+MID_ModePixelate
+Pikseler
+; Pixelate
+;
+MID_ModeSmear
+Smøre
+; Smear
+;
+MID_ModeShuffle
+Stokke
+; Shuffle
+;
+MID_BrushLoad
+Hent
+; Load Brush
+;
+MID_BrushSave
+Lagre
+; Save Brush
+;
+MID_BrushUse
+Bruk
+; Use Brush
+;
+MID_BrushFlip
+Snu
+; Flip brush
+;
+MID_BrushRotate
+Roter
+; Rotate brush
+;
+MID_BrushTilt
+Vinke
+; Tilt
+;
+MID_BrushOutline
+Omrisse
+; Outline
+;
+MID_BrushHorizontal
+Vannrett
+; Horizontal
+;
+MID_BrushVertical
+Vertikalt
+; Vertical
+;
+MID_BrushScale
+Skaller
+; Scale
+;
+MID_FillColorMode
+Fyll farge modus
+; Color Mode
+;
+MID_FillGradientHorizontal
+farge overgang vannrett
+; Gradient Horizontal
+;
+MID_FillGradientVertical
+farge overgang vertikalt
+; Gradient Vertical
+;
+MID_FillBrushStretched
+Fyll strekk børste
+; Brush stretched
+;
+MID_FillBrushPattern
+Fyll børste mønster
+; Brush pattern
+;
+MID_ShowCoordinate
+Vis kordinater
+; Show coordinate
+;
+MID_FillMode
+Fyll metode
+; Fill mode
+;
+MID_SymetryTool
+Symertri vertøy
+; Symetry tool
+;
+MID_PaletteLoad
+Hant
+; Load Palette
+;
+MID_PaletteSave
+Lagre
+; Save Palette
+;
+MID_PaletteToGray
+Farger til gråtoner
+; Palette to gray
+;
+MID_PaletteLuminate
+Lyssetting
+; Luminate
+;
+MID_PaletteEnhanceColors
+Farge forbedring
+; Enhance colors
+;
+MID_PaletteInvertColors
+Inverter farger
+; Invert colors
+;
+MID_PaletteTool
+Farge verktøy
+; Palette tool
+;
+MID_ToolBox
+Varktøyboks
+; Toolbox
+;
+MID_ToolBoxLeft
+Venstre
+; Left
+;
+MID_ToolBoxRight
+Høyre
+; Right
+;
+MID_ToolBoxHideShow
+Sjul/vis
+; Hide/Show
+;
+MID_PrefsCoordinates
+Vis kordinater
+; Coordinates
+;
+MID_PrefsFillMode
+Fyllings modus
+; Fillmode
+;
+MID_PrefsSymmetri
+Symetri oppsett
+; Symmetri
+;
+MID_PrefsToolBox
+Verktøyboks
+; Toolbox
+;
+MID_END
+Slutt
+; 
+;
+alart_bt_ok
+Ok
+; _Ok
+;
+alart_bt_cancel
+Angre
+; _Cancel
+;
+alart_bt_abort
+Avbryt
+; _Abort
+;
+alert_bt_top_left
+Top venstre
+; top left
+;
+alert_bt_center
+Center
+; center
+;
+alert_bt_top_right
+Top høyre
+; top right
+;
+str_failure
+Feil
+; Failure
+;
+str_unknown_file_format
+Ukjent fil format
+; Unknown file format
+;
+str_coded_by
+Porgramert av
+; Coded by
+;
+str_about
+Om
+; About
+;
+str_enhance_colors
+Forsterket farge
+; Enhance colors
+;
+str_luminate
+Lysstykre
+; Luminate
+;
+str_load_palette
+Hent farger
+; Load palette
+;
+str_save_palette_as
+Lagre farger
+; Save palette as
+;
+str_load_picture
+Hent bilde
+; Load picture
+;
+str_save_picture
+Lagre bilde
+; Save picture
+;
+str_load_brush
+hent børste
+; Load beush
+;
+str_save_brush
+lagre børste
+; Save brush
+;
+str_resize_image
+omskaller bilde
+; Resize image
+;
+msg_change_image_size
+bilde størelse vidde,høyde
+; Image size w,h
+;
+msg_select_where_to_place_the_image
+Velg hvor du ønsker å plassere bilde
+; Select where to palce the image
+;
+ID_END
+Slutt på alt
+; Size of locale
+;

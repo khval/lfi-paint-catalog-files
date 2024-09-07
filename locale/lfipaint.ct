@@ -1,0 +1,348 @@
+## version $VER: XX.catalog XX.XX (XX.XX.20XX)
+## codeset X
+## language X
+;
+MID_START
+
+; 
+;
+MID_File
+
+; File
+;
+MID_Picture
+
+; Picture
+;
+MID_Mode
+
+; Mode
+;
+MID_Brush
+
+; Brush
+;
+MID_Palette
+
+; Palette
+;
+MID_Prefs
+
+; Prefs
+;
+MID_Load
+
+; Load
+;
+MID_Save
+
+; Save
+;
+MID_About
+
+; About
+;
+MID_Quit
+
+; Quit
+;
+MID_PictureFlip
+
+; Flip
+;
+MID_PictureFlipHorizontal
+
+; Horizontal
+;
+MID_PictureFlipVertical
+
+; Vertical
+;
+MID_PictureSize
+
+; Size
+;
+MID_PictureClear
+
+; Clear
+;
+MID_PictureRotate
+
+; Rotate
+;
+MID_PictureRotateLeft
+
+; Rotate Left
+;
+MID_PictureRotateRight
+
+; Rotate Right
+;
+MID_PictureTrim
+
+; Trim
+;
+MID_PictureScale
+
+; Scale
+;
+MID_PictureEdgeFilter
+
+; Edge filter
+;
+MID_PictureSpare
+
+; Spare
+;
+MID_ModeColor
+
+; Color
+;
+MID_ModeColorizing
+
+; Colorizing
+;
+MID_ModeSmooth
+
+; Smooth
+;
+MID_ModeShade
+
+; Shade
+;
+MID_ModePixelate
+
+; Pixelate
+;
+MID_ModeSmear
+
+; Smear
+;
+MID_ModeShuffle
+
+; Shuffle
+;
+MID_BrushLoad
+
+; Load Brush
+;
+MID_BrushSave
+
+; Save Brush
+;
+MID_BrushUse
+
+; Use Brush
+;
+MID_BrushFlip
+
+; Flip brush
+;
+MID_BrushRotate
+
+; Rotate brush
+;
+MID_BrushTilt
+
+; Tilt
+;
+MID_BrushOutline
+
+; Outline
+;
+MID_BrushHorizontal
+
+; Horizontal
+;
+MID_BrushVertical
+
+; Vertical
+;
+MID_BrushScale
+
+; Scale
+;
+MID_FillColorMode
+
+; Color Mode
+;
+MID_FillGradientHorizontal
+
+; Gradient Horizontal
+;
+MID_FillGradientVertical
+
+; Gradient Vertical
+;
+MID_FillBrushStretched
+
+; Brush stretched
+;
+MID_FillBrushPattern
+
+; Brush pattern
+;
+MID_ShowCoordinate
+
+; Show coordinate
+;
+MID_FillMode
+
+; Fill mode
+;
+MID_SymetryTool
+
+; Symetry tool
+;
+MID_PaletteLoad
+
+; Load Palette
+;
+MID_PaletteSave
+
+; Save Palette
+;
+MID_PaletteToGray
+
+; Palette to gray
+;
+MID_PaletteLuminate
+
+; Luminate
+;
+MID_PaletteEnhanceColors
+
+; Enhance colors
+;
+MID_PaletteInvertColors
+
+; Invert colors
+;
+MID_PaletteTool
+
+; Palette tool
+;
+MID_ToolBox
+
+; Toolbox
+;
+MID_ToolBoxLeft
+
+; Left
+;
+MID_ToolBoxRight
+
+; Right
+;
+MID_ToolBoxHideShow
+
+; Hide/Show
+;
+MID_PrefsCoordinates
+
+; Coordinates
+;
+MID_PrefsFillMode
+
+; Fillmode
+;
+MID_PrefsSymmetri
+
+; Symmetri
+;
+MID_PrefsToolBox
+
+; Toolbox
+;
+MID_END
+
+; 
+;
+alart_bt_ok
+
+; _Ok
+;
+alart_bt_cancel
+
+; _Cancel
+;
+alart_bt_abort
+
+; _Abort
+;
+alert_bt_top_left
+
+; top left
+;
+alert_bt_center
+
+; center
+;
+alert_bt_top_right
+
+; top right
+;
+str_failure
+
+; Failure
+;
+str_unknown_file_format
+
+; Unknown file format
+;
+str_coded_by
+
+; Coded by
+;
+str_about
+
+; About
+;
+str_enhance_colors
+
+; Enhance colors
+;
+str_luminate
+
+; Luminate
+;
+str_load_palette
+
+; Load palette
+;
+str_save_palette_as
+
+; Save palette as
+;
+str_load_picture
+
+; Load picture
+;
+str_save_picture
+
+; Save picture
+;
+str_load_brush
+
+; Load beush
+;
+str_save_brush
+
+; Save brush
+;
+str_resize_image
+
+; Resize image
+;
+msg_change_image_size
+
+; Image size w,h
+;
+msg_select_where_to_place_the_image
+
+; Select where to palce the image
+;
+ID_END
+
+; Size of locale
+;

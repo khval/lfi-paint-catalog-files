@@ -1,0 +1,4 @@
+
+list catalogs all lformat "echo *E[1mread from *"%p%n*"*E[0m*nflexcat lfipaint.cd *"%p%n*" catalog=%plfipaint.catalog" | grep "lfipaint.ct" > t:script-flexcat
+protect t:script-flexcat +s
+t:script-flexcat 
