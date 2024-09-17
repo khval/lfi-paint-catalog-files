@@ -124,9 +124,17 @@
 #define str_load_brush 80
 #define str_save_brush 81
 #define str_resize_image 82
-#define msg_change_image_size 83
-#define msg_select_where_to_place_the_image 84
-#define ID_END 85
+#define str_angle 83
+#define str_length 84
+#define str_radius 85
+#define str_width 86
+#define str_height 87
+#define msg_change_image_size 88
+#define msg_select_where_to_place_the_image 89
+#define bt_spread 90
+#define bt_copy 91
+#define bt_pick_color 92
+#define ID_END 93
 
 #endif /* CATCOMP_NUMBERS */
 

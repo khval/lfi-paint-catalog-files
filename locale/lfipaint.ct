@@ -334,6 +334,26 @@ str_resize_image
 
 ; Resize image
 ;
+str_angle
+
+; Angle
+;
+str_length
+
+; Length
+;
+str_radius
+
+; Radius
+;
+str_width
+
+; Width
+;
+str_height
+
+; Height
+;
 msg_change_image_size
 
 ; Image size w,h
@@ -341,6 +361,18 @@ msg_change_image_size
 msg_select_where_to_place_the_image
 
 ; Select where to place the image
+;
+bt_spread
+
+; Spread
+;
+bt_copy
+
+; Copy
+;
+bt_pick_color
+
+; pick color
 ;
 ID_END
 

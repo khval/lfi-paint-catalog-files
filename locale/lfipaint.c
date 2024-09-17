@@ -124,9 +124,17 @@
 #define str_load_brush 80
 #define str_save_brush 81
 #define str_resize_image 82
-#define msg_change_image_size 83
-#define msg_select_where_to_place_the_image 84
-#define ID_END 85
+#define str_angle 83
+#define str_length 84
+#define str_radius 85
+#define str_width 86
+#define str_height 87
+#define msg_change_image_size 88
+#define msg_select_where_to_place_the_image 89
+#define bt_spread 90
+#define bt_copy 91
+#define bt_pick_color 92
+#define ID_END 93
 
 #endif /* CATCOMP_NUMBERS */
 
@@ -219,8 +227,16 @@
 #define str_load_brush_STR "Load brush"
 #define str_save_brush_STR "Save brush"
 #define str_resize_image_STR "Resize image"
+#define str_angle_STR "Angle"
+#define str_length_STR "Length"
+#define str_radius_STR "Radius"
+#define str_width_STR "Width"
+#define str_height_STR "Height"
 #define msg_change_image_size_STR "Image size w,h"
 #define msg_select_where_to_place_the_image_STR "Select where to place the image"
+#define bt_spread_STR "Spread"
+#define bt_copy_STR "Copy"
+#define bt_pick_color_STR "pick color"
 #define ID_END_STR "Size of locale"
 
 #endif /* CATCOMP_STRINGS */
@@ -322,8 +338,16 @@ STATIC CONST struct CatCompArrayType CatCompArray[] =
     {str_load_brush,(CONST_STRPTR)str_load_brush_STR},
     {str_save_brush,(CONST_STRPTR)str_save_brush_STR},
     {str_resize_image,(CONST_STRPTR)str_resize_image_STR},
+    {str_angle,(CONST_STRPTR)str_angle_STR},
+    {str_length,(CONST_STRPTR)str_length_STR},
+    {str_radius,(CONST_STRPTR)str_radius_STR},
+    {str_width,(CONST_STRPTR)str_width_STR},
+    {str_height,(CONST_STRPTR)str_height_STR},
     {msg_change_image_size,(CONST_STRPTR)msg_change_image_size_STR},
     {msg_select_where_to_place_the_image,(CONST_STRPTR)msg_select_where_to_place_the_image_STR},
+    {bt_spread,(CONST_STRPTR)bt_spread_STR},
+    {bt_copy,(CONST_STRPTR)bt_copy_STR},
+    {bt_pick_color,(CONST_STRPTR)bt_pick_color_STR},
     {ID_END,(CONST_STRPTR)ID_END_STR},
 };
 

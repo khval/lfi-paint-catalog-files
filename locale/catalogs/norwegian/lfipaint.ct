@@ -327,6 +327,26 @@ str_resize_image
 omskaller bilde
 ; Resize image
 ;
+str_angle
+Vinkel
+; Angle
+;
+str_length
+Lengde
+; Length
+;
+str_radius
+Radius
+; Radius
+;
+str_width
+Brede
+; Width
+;
+str_height
+Høyde
+; Height
+;
 msg_change_image_size
 bilde størelse vidde,høyde
 ; Image size w,h
@@ -334,6 +354,18 @@ bilde størelse vidde,høyde
 msg_select_where_to_place_the_image
 Velg hvor du ønsker å plassere bilde
 ; Select where to palce the image
+;
+bt_spread
+Spre
+; spread
+;
+bt_copy
+Kopi
+; copy
+;
+bt_pick_color
+Pluk farge
+; pick color
 ;
 ID_END
 Slutt på alt
